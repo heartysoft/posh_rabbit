@@ -1,3 +1,8 @@
+---
+layout: page
+title: Posh_Rabbit
+tagline: Powershell scripts for rabbitmq
+---
 
 # Posh RabbitMQ
 
